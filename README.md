@@ -255,5 +255,7 @@ journey-resilience-agent/
 
 ## License
 
-MIT. Not affiliated with or endorsed by Deutsche Bahn AG; the DB logo is the trademark of its owner
-and appears here only to indicate the data source.
+[AGPL-3.0](LICENSE) © 2026 Berke Ugur Aksakal. The source is open to read, fork and build on — but
+anyone who runs a modified version as a network service must publish their source under the same
+terms. Not affiliated with or endorsed by Deutsche Bahn AG; the DB logo is the trademark of its
+owner and appears here only to indicate the data source.
