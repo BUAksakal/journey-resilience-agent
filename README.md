@@ -19,6 +19,18 @@
   <img alt="License" src="https://img.shields.io/badge/license-MIT-black"/>
 </p>
 
+<p align="center">
+  <a href="https://journey-resilience-agent-k5iqmk8k2-buaksakals-projects.vercel.app/">
+    <img alt="Live demo" src="https://img.shields.io/badge/live%20demo-vercel-000000?logo=vercel&logoColor=white"/>
+  </a>
+</p>
+
+<p align="center">
+  <b><a href="https://journey-resilience-agent-k5iqmk8k2-buaksakals-projects.vercel.app/">→ View the live interface</a></b><br/>
+  <sub>The interface is deployed; the prediction backend runs locally, so the demo shows
+  <i>backend offline</i> until you run <code>uvicorn src.api.server:app</code> yourself.</sub>
+</p>
+
 ---
 
 Most apps tell you a connection failed. This one tells you it's **about to** — while there's still
